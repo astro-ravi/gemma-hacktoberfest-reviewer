@@ -1,4 +1,5 @@
-🎃 Gemma Reviewer — Hacktoberfest AI Code Assistant
+*🎃 Gemma Reviewer — Hacktoberfest AI Code Assistant*
+
 A local, privacy-first developer assistant powered by Google's Gemma and Streamlit. Designed for Hacktoberfest to help open-source contributors and maintainers write standardized commit messages, generate PR summaries, and perform quick code reviews—entirely on-device.
 
 🌟 Key Features
